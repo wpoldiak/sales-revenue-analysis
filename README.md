@@ -1,5 +1,6 @@
 **Retail Sales & Financial Analysis
 Overview**
+
 This project analyzes retail sales data to identify trends, evaluate profitability, and measure financial performance. Using Python, SQL, and Power BI, the goal is to turn raw data into actionable business insights and recommendations.
 
 **Business Objectives**
